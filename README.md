@@ -21,7 +21,7 @@ However, there is a useful math operator called Modulus. `Modulus` operator give
 
 The an example usage of modulus is to determine if the value is an `even` or `odd`
 
-```
+```python
 if (x % 2 == 0)
   print(x, ' is even')
 
