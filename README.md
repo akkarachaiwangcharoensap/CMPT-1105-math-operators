@@ -12,7 +12,7 @@ a * b # 20
 a / b # 0.2
 ```
 
-However, there is a useful math operator called Modulus. Modulus gives us a remainer of a division.
+However, there is a useful math operator called Modulus. `Modulus` operator gives us a remainder of the division.
 
 ```python
 10 % 2 # 0
