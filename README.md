@@ -6,17 +6,17 @@ In Python you can do basic arithmetic operations such as `addition`, `substracti
 a = 2;
 b = 10;
 
-a + b # 12
-a - b # -8
-a * b # 20
-a / b # 0.2
+a + b # = 12
+a - b # = -8
+a * b # = 20
+a / b # = 0.2
 ```
 
 However, there is a useful math operator called Modulus. `Modulus` operator gives us a remainder of the division.
 
 ```python
-10 % 2 # 0
-10 % 3 = 1
+10 % 2 # = 0
+10 % 3 # = 1
 ```
 
 The an example usage of modulus is to determine if the value is an `even` or `odd`
