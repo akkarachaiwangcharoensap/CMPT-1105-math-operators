@@ -12,7 +12,7 @@ a * b # = 20
 a / b # = 0.2
 ```
 
-However, there is a useful math operator called Modulus. `Modulus` operator gives us a remainder of the division.
+However, there is a useful math operator called `Modulus`. `Modulus` operator gives us a remainder of the division.
 
 ```python
 10 % 2 # = 0
@@ -22,8 +22,11 @@ However, there is a useful math operator called Modulus. `Modulus` operator give
 The an example usage of modulus is to determine if the value is an `even` or `odd`
 
 ```python
-if (x % 2 == 0)
+x = 10
+
+if x % 2 == 0:
   print(x, ' is even')
-else
+else:
   print(x, ' is odd')
+
 ```
