@@ -1,6 +1,6 @@
 # CMPT 1105 Math Operators
 
-In Python you can do basic arithmetic operations such as addition, substraction, multiplication, and division.
+In Python you can do basic arithmetic operations such as `addition`, `substraction`, `multiplication`, and `division`.
 
 ```python
 a = 2;
