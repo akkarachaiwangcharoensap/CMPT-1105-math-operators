@@ -24,7 +24,6 @@ The an example usage of modulus is to determine if the value is an `even` or `od
 ```python
 if (x % 2 == 0)
   print(x, ' is even')
-
 else
   print(x, ' is odd')
 ```
